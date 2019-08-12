@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaClas</string>
+    <string name="Name">Name</string>
+    <string name="Toppings">Topping</string>
+    <string name="Whipped_cream">Whipped Cream</string>
+    <string name="Chocolate_cream">Chocolate Cream</string>
+</resources>
